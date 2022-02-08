@@ -1,4 +1,4 @@
-<img src="./docs/assets/images/zpix_mono_preview.png?v=2022-2" width="800" />
+<img src="./docs/assets/images/zpix_mono_preview.png?v=20220208" width="800" />
 
 > Zpix Mono (最像素 Mono)
 >
