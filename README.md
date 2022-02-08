@@ -1,3 +1,15 @@
+<img src="./docs/assets/images/zpix_mono_preview.png?v=2022-2" width="800" />
+
+> Zpix Mono (最像素 Mono)
+> 基于 @SolidZORO 的 (最像素)[https://github.com/SolidZORO/zpix-pixel-font] 项目修改而来
+> 将原字体统一修改为西文字体7px，全角字体14px，刚好可以实现等宽，并进行了居中处理
+> 所有权利归原作者 @SolidZORO 所有.
+> 不定时同步上游字体变更，上一次同步时间: 2022/02/08
+
+---
+
+> 以下是上游仓库 Readme:
+
 <div>
   <img src="./docs/assets/images/zpix_logo@2x.png?v=2020-2" width="250" />
   <br>
@@ -7,7 +19,6 @@
    📍<a href="https://zpix.vercel.app" target="_blank">Zpix Online Sample (host by vercel)</a>
   <br>
 </div>
-
 ## Font Info
 
 - Name: Zpix (最像素)
