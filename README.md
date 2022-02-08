@@ -2,7 +2,7 @@
 
 > Zpix Mono (最像素 Mono)
 >
-> 基于 @SolidZORO 的 (最像素)[https://github.com/SolidZORO/zpix-pixel-font] 项目修改而来
+> 基于 @SolidZORO 的 [最像素](https://github.com/SolidZORO/zpix-pixel-font) 项目修改而来
 >
 > 将原字体统一修改为西文字体7px，全角字体14px，刚好可以实现等宽，并进行了居中处理
 >
